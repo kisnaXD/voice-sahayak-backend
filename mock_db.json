@@ -1,0 +1,11 @@
+{
+  "123412341234": {
+    "name": "Krishna",
+    "stored_pdf": "pdfs/CustomHouse.pdf",
+    "notice": ""
+  },
+  "999988887777": {
+    "name": "Raghunath Gera",
+    "notice": "This is a short textual notice: you owe Rs. 500..."
+  }
+}
